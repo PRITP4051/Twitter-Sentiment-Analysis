@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-scikit-learn
+streamlit==1.32.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
 torch==2.2.2
 transformers==4.41.2
-datasets
+datasets==2.19.0
